@@ -1,0 +1,14 @@
+section {
+    width: 100%;
+    height: 100vh;
+    font-size: 15rem;
+    text-align: center;
+}
+
+#Section-01 {
+    background-color: red;
+}
+
+#Section-02 {
+    background-color: blue;
+}
